@@ -1,0 +1,35 @@
+// main {
+//   button {
+//     padding: 0.5rem 1rem;
+//     margin: 0.5rem;
+//   }
+//   .counter {
+//     display: flex;
+//     flex-wrap: wrap;
+//     h1 {
+//       width: 100%;
+//       margin-bottom: 0;
+//     }
+//   }
+//   .landscapes {
+//     justify-content: flex-start;
+//   }
+//   .todos {
+//     background-color: lightgrey;
+//     padding: 2rem;
+//     max-width: 800px;
+//     ul {
+//       li {
+//         display: flex;
+//         align-items: center;
+//         span {
+//           margin-right: auto;
+//           &.checked {
+//             color: orange;
+//             text-decoration: line-through;
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
